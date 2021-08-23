@@ -6,7 +6,7 @@
 
 ## Discord
 
-I use Discord a lot feel free to add me!
+I use Discord a lot, feel free to add me!
 
 ```bash
 REALziez#5887
