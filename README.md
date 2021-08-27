@@ -2,7 +2,7 @@
 
 #### 🦕 I Like Dinos 🦕
 #### 🧀 Cheese Is Fire 🧀 
-#### 📚 Currently Learning Java 📚
+#### 📚 Currently Learning Python 📚
 
 ## Discord
 
