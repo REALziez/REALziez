@@ -3,6 +3,7 @@
 #### 🦕 I Like Dinos 🦕
 #### 🧀 Cheese Is Fire 🧀 
 #### 📚 Currently Learning Python 📚
+#### 🥫 Bean Battles Enthusiast 🥫
 
 ## Discord
 
